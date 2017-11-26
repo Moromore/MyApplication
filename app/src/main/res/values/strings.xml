@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="tab_one">Locate</string>
+    <string name="tab_two">Analyze</string>
+    <string name="tab_three">History</string>
+    <string name="tab_four">Settings</string>
+</resources>
