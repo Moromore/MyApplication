@@ -151,4 +151,5 @@
     <color name="black">#000000</color> <!-- 黑色 -->
     <color name="ios">#f8f8f8</color>
     <color name="myblue">#0000CD</color>
+    <color name="mytop">#252530</color>
 </resources>

@@ -4,4 +4,7 @@
     <string name="tab_two">Analyze</string>
     <string name="tab_three">History</string>
     <string name="tab_four">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
